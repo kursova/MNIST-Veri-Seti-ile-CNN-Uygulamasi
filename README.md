@@ -1,0 +1,1 @@
+# MNIST-Veri-Seti-ile-CNN-Uygulamasi
